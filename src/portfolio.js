@@ -13,7 +13,8 @@ const socialMediaLinks = {
   github: "https://github.com/abbas-nazar",
   linkedin: "https://www.linkedin.com/in/abbas-nazar/",
   gmail: "abbasnazar.970@gmail.com",
-  facebook: "https://www.facebook.com/abbas.nazar.5"
+  facebook: "https://www.facebook.com/abbas.nazar.5",
+  instagram: "https://www.instagram.com/i_abbasnazar/"
 };
 
 const skillsSection = {

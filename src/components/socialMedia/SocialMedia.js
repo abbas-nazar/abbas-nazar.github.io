@@ -21,6 +21,11 @@ export default function socialMedia() {
         <i className="fab fa-facebook-f"></i>
         <span></span>
       </a>
+
+      <a href={socialMediaLinks.instagram} className="icon-button instagram" target="_blank">
+          <i className="fab fa-instagram"></i>
+        <span></span>
+      </a>
     </div>
   );
 }
