@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1abd97cb7cbac96b0f60cb2eb67139f",
+    "revision": "8f5cbd0065ef3658c9c755eedc63e820",
     "url": "/index.html"
   },
   {
-    "revision": "884093350455da13852b",
-    "url": "/static/css/main.1d252905.chunk.css"
+    "revision": "2f274936f098d36aeadf",
+    "url": "/static/css/main.2cffffaf.chunk.css"
   },
   {
-    "revision": "21d4cca4245dd0ffc28c",
-    "url": "/static/js/2.26c65c66.chunk.js"
+    "revision": "f0e2868b8d09ad276ff3",
+    "url": "/static/js/2.a7e1b1ca.chunk.js"
   },
   {
-    "revision": "884093350455da13852b",
-    "url": "/static/js/main.3c398fda.chunk.js"
+    "revision": "2f274936f098d36aeadf",
+    "url": "/static/js/main.3e7cd0bc.chunk.js"
   },
   {
     "revision": "48c94d1b6ed156963bd1",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c2801fb415f03c7b170934769d7b5397",
     "url": "/static/media/fa-solid-900.c2801fb4.svg"
+  },
+  {
+    "revision": "a1eb41ee63a4437c425a2ace8f8716d1",
+    "url": "/static/media/hobbies.a1eb41ee.svg"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
