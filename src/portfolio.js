@@ -78,6 +78,16 @@ const skillsSection = {
   ]
 };
 
+const hobbiesSection = {
+    title: "My Hobbies Are",
+    hobbies: [
+      "⚡ Playing Games",
+      "⚡ Watching Anime, Season and Movies",
+      "⚡ Reading Tech News",
+      "⚡ Watching Tech Videos Mostly Smartphone Related"
+    ],
+};
+
 const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
@@ -194,4 +204,4 @@ const contactInfo = {
   email_address: "abbasnazar.970@gmail.com"
 };
 
-export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };
+export { greeting, socialMediaLinks, skillsSection, hobbiesSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };

@@ -66,7 +66,7 @@ export default function Projects() {
   }
 
   return (
-    <div className="main" id="opensource">
+    <div className="main" id="repositories">
       <h1 className="project-title">My Git Repositories</h1>
       <div className="repo-cards-div-main">
         {repo.map((v, i) => {
